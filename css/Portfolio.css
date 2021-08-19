@@ -375,7 +375,7 @@ a.button3:hover span:after {
 
 @keyframes load4 {
   0% { width: 0; }
-  100% { width: 30%; }
+  100% { width: 60%; }
 }
 .progress-value5 {
   animation: load5 3s normal forwards;
@@ -388,7 +388,7 @@ a.button3:hover span:after {
 
 @keyframes load5 {
   0% { width: 0; }
-  100% { width: 50%; }
+  100% { width: 85%; }
 }
 
 .progress-value6 {
@@ -402,7 +402,7 @@ a.button3:hover span:after {
 
 @keyframes load6 {
   0% { width: 0; }
-  100% { width: 70%; }
+  100% { width: 60%; }
 }
 
 .progress-value7 {
@@ -416,7 +416,7 @@ a.button3:hover span:after {
 
 @keyframes load7 {
   0% { width: 0; }
-  100% { width: 30%; }
+  100% { width: 50%; }
 }
 
 
